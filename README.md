@@ -6,7 +6,7 @@ Atli Sævar Guðmundsson
 
 Niðurhalaði VirtualBox og Linux VirtualBox Image og startaði Ubuntu Virtual Machine:
 
-![tölvan að bútta](http://imgur.com/W23dJIg) "Tölvan að bútta"
+![tölvan að bútta](http://imgur.com/W23dJIg)
 
 ## 2. Uppsetning á vim && git
 
