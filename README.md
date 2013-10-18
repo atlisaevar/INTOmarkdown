@@ -6,7 +6,8 @@ Atli Sævar Guðmundsson
 
 Niðurhalaði VirtualBox og Linux VirtualBox Image og startaði Ubuntu Virtual Machine:
 
-![tölvan að bútta](TolvanAdButta.jpg) "Tölvan að bútta ójá"
+![tölvan að bútta](http://imgur.com/W23dJIg) "Tölvan að bútta"
+
 ## 2. Uppsetning á vim && git
 
 Gekk vel, fór eftir leiðbeiningum og allt virkaði.
@@ -41,4 +42,4 @@ https://github.com/atlisaevar/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Það gekk vel að setja upp markdown skjalið nema það var smá vesen með myndina, en það tókst að lokum.
+Það gekk vel að setja upp markdown skjalið nema það var smá vesen með myndina, en það tókst að lokum.  Var að reyna að gera git add á hana en það var ekki að virka þannig að ég uploadaði henni bara á imgur.com og setti linkinn inn.
