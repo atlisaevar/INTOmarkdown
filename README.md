@@ -26,21 +26,21 @@ https://github.com/atlisaevar/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Mozilla Firefox - Mozilla Public License ("MPL")
+- [x] Mozilla Firefox - Mozilla Public License ("MPL")
 
 Linkur fyrir source code:
 
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives
 
 
-Open Office - GNU Lesser General Public License
+- [x] Open Office - GNU Lesser General Public License
 
 Linkur fyrir source code:
 
 http://www.openoffice.org/download/source/
 
 
-VLC media player - GNU General Public License
+- [x] VLC media player - GNU General Public License
 
 Linkur fyrir source code:
 
