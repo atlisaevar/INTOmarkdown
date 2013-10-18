@@ -42,4 +42,6 @@ https://github.com/atlisaevar/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Það gekk vel að setja upp markdown skjalið nema það var smá vesen með myndina, en það tókst að lokum.  Var að reyna að gera git add á hana en það var ekki að virka þannig að ég uploadaði henni bara á imgur.com og setti linkinn inn.
+Það gekk vel að setja upp markdown skjalið nema það var smá vesen með myndina, en það tókst að lokum.
+
+Var að reyna að gera git add á hana en það var ekki að virka þannig að ég uploadaði henni bara á imgur.com og setti linkinn inn.
