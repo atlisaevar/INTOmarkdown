@@ -6,8 +6,7 @@ Atli Sævar Guðmundsson
 
 Niðurhalaði VirtualBox og Linux VirtualBox Image og startaði Ubuntu Virtual Machine:
 
-![tölvan að bútta](https://mail.google.com/mail/?ui=2&ik=dbcd561344&view=att&th=141cb401901aff54&attid=0.1&disp=safe&realattid=1449230931714899968-1&zw)
-
+![tölvan að bútta](TolvanAdButta.jpg) "Tölvan að bútta"
 ## 2. Uppsetning á vim && git
 
 Gekk vel, fór eftir leiðbeiningum og allt virkaði.
